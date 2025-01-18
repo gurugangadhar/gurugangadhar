@@ -14,8 +14,8 @@
 
 Hi there! 👋 I'm a **[Web developer ]** who loves crafting **clean**, **functional**, and **beautiful code**. Whether it’s building web apps, exploring new technologies, or solving real-world problems, I’m always up for the challenge!
 
-- 🌱 **Currently Learning:** Angular.Js , MERN , Spring Boot
-- 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Node.js, [add more!]
+- 🌱 **Currently Learning:** Angular.Js , MERN , Spring Boot & UI/UX
+- 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Node.js
 - 🚀 **Hobbies:** Coding, Editing Posters,Videos and Creating Games🎮.
 - 💡 **Fun Fact:** I firmly believe that **"Debugging is twice as hard as writing the code."**  
 
