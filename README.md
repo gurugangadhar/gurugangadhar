@@ -12,21 +12,21 @@
 
 ## 🛠️ **About Me**
 
-Hi there! 👋 I'm a **[Web developer ]** who loves crafting **clean**, **functional**, and **beautiful code**. Whether it’s building web apps, exploring new technologies, or solving real-world problems, I’m always up for the challenge!
+Hi there! 👋 I'm a **Web developer** who loves crafting **clean**, **functional**, and **beautiful code**. Whether it’s building web apps, exploring new technologies, or solving real-world problems, I’m always up for the challenge!
 
 - 🌱 **Currently Learning:** Angular.Js , MERN , Spring Boot & UI/UX
-- 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Node.js
-- 🚀 **Hobbies:** Coding, Editing Posters,Videos and Creating Games🎮.
+- 🛠️ **Tech Stack:** HTML, CSS, JavaScript, Node.js, React.js
+- 🚀 **Hobbies:** Coding, Editing Postersand Videos,Creating Games🎮.
 - 💡 **Fun Fact:** I firmly believe that **"Debugging is twice as hard as writing the code."**  
 
 <hr>
 
 ## 🌟 **Key Features of This Repo**
 
-📌 **Personal Bio:** My professional and educational journey.  
-📌 **Tech Highlights:** The skills and tools I bring to the table.  
-📌 **Featured Projects:** A sneak peek into my exciting work.  
-📌 **Certifications:** A quick showcase of my credentials.  
+📌 **Personal Bio:** Iam Currently a B.TECH Student, my Graduation is on 2025. 
+📌 **Tech Highlights:** Mostly on UI/UX and Faremworks of Web Devploment. 
+📌 **Featured Projects:** WebSocket server for real-time updates, API handling, Data analysis.  
+📌 **Certifications:** Visit on Linkedin | [LINK](https://www.linkedin.com/in/guru-gangadhar19/).  
 
 <hr>
 
@@ -37,10 +37,10 @@ Hi there! 👋 I'm a **[Web developer ]** who loves crafting **clean**, **functi
 </p>
 
 | 🌐 **Project Name**          | 🔍 **Description**                                                                                 | 💻 **Tech Used**         |  
-|------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------|  
-| [🚀 Cool App](#)              | An innovative web application to [solve XYZ problem].                                              | React, Node.js           |  
-| [🎨 Design Your Space](#)     | A dynamic platform for creating custom design layouts.                                              | HTML, CSS, JS            |  
-| [📊 Analytics Dashboard](#)   | A powerful tool for visualizing and analyzing big data.                                            | Python, Flask, SQLite    |  
+|------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------|  
+| [🍳 Food-delevary ](https://21ak1a0427.github.io/food-delevary/)              | A Cool Website for Food Delevary.                  | HTML, JS                 |  
+| [🔗 Url_Shorter ](https://github.com/21AK1A0427/Url_Shorter.git)     | A dynamic platform for Shorting URl's.                      | HTML, CSS, JS            |  
+| [👨‍🏫  STUDENT INFORMATION MANAGEMENT SYSTEM](https://github.com/21AK1A0427/Student_Registration_Form.git)   | The sercured Project that brings the students infromation to management.        |React.js,Springboot, MYSQL|  
 
 <hr>
 
@@ -55,7 +55,7 @@ Hi there! 👋 I'm a **[Web developer ]** who loves crafting **clean**, **functi
 ## 📜 **Certifications & Achievements**
 
 🎓 **Educational Background:**  
-- [Your Degree], [Your University], Year of Completion  
+- B.TECH | ECE, AITS - TPT, 2025
 
 📜 **Certifications:**  
 - [Certification Name 1] - [Organization]  
@@ -72,10 +72,10 @@ Hi there! 👋 I'm a **[Web developer ]** who loves crafting **clean**, **functi
 ## 🌐 **Connect With Me**
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/your-profile"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:gurugangadharreddy19@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guru-gangadhar19/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/21AK1A0427"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  
 </p>
 
 <hr>
