@@ -58,11 +58,14 @@ Hi there! 👋 I'm a **Web developer** who loves crafting **clean**, **functiona
 - B.TECH | ECE, AITS - TPT, 2025
 
 📜 **Certifications:**  
-- [Certification Name 1] - [Organization]  
-- [Certification Name 2] - [Organization]  
-- [Certification Name 3] - [Organization]  
+- JavaScript for Beginners           - Simplilearn | LINK 
+- Introduction to Web Development
+  with HTML5, CSS3, and JavaScript   - IBM     | [LINK](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzI0IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNzA0MzkzNV8xNzIyMjcxMDMyLnBuZyIsInVzZXJuYW1lIjoiZ3VydSBnYW5nYWRoYXIgcmVkZHkifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4212%2FJavaScript-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1354793033070477973&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVD3ctNUvKyUh28UmyrytKTUstKsrMS49PKsovL04tsnVNSU8FAOmnNzk9AAAA)
+- SQL Using MYSQL & Database Design  - Scaler  | [LINK](https://courses.edx.org/certificates/419b3aac0e4d418ebe32eb117d9ccaae)
+- REACT.JS                           - Scaler  | [LINK](https://moonshot.scaler.com/s/li/FwcTU9E5NE)
+- Cloud Computing                    - NPTEL   | [LINK](https://drive.google.com/file/d/1HNW7N1sBYZAsyQfzhFgFIc3vjstKxSxh/view)
 
-🏆 **Achievements:**  
+🏆 **Achievements:** (in progess ) 
 - Winner of [Competition/Event Name] 🥇  
 - Successfully completed [Hackathon/Challenge]  
 - Featured in [Publication/Recognition]  
