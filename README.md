@@ -23,9 +23,9 @@ Hi there! 👋 I'm a **Web developer** who loves crafting **clean**, **functiona
 
 ## 🌟 **Key Features of This Repo**
 
-📌 **Personal Bio:** Iam Currently a B.TECH Student, my Graduation is on 2025. 
-📌 **Tech Highlights:** Mostly on UI/UX and Faremworks of Web Devploment. 
-📌 **Featured Projects:** WebSocket server for real-time updates, API handling, Data analysis.  
+📌 **Personal Bio:** Iam Currently a B.TECH Student, my Graduation is on 2025. <br>
+📌 **Tech Highlights:** Mostly on UI/UX and Faremworks of Web Devploment. <br>
+📌 **Featured Projects:** WebSocket server for real-time updates, API handling, Data analysis.  <br>
 📌 **Certifications:** Visit on Linkedin | [LINK](https://www.linkedin.com/in/guru-gangadhar19/).  
 
 <hr>
