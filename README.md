@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&size=25&center=true&vCenter=true&width=500&lines=Passionate+Developer+🌟;Eternal+Learner+📘;Tech+Enthusiast+🚀" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Coding Animation">
-</p>
 
 <hr>
 
