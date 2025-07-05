@@ -49,21 +49,6 @@ return 0;
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&size=25&center=true&vCenter=true&width=500&lines=Passionate+Developer+🌟;Eternal+Learner+📘;Tech+Enthusiast+🚀" alt="Typing SVG">
-</p>
-
-
-## 🛠️ **Tools & Technologies**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,github,git,vscode" alt="Tech Stack">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" alt="Motivational Gif">
-</p>
-
 </br>
 </details>
 <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
