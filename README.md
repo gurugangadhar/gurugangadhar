@@ -37,7 +37,7 @@ return 0;
   
 ```   
 <br> <br> 
-<img src="<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Guru%20Gangadhar%20reddy&theme=black-ice&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" "align="center" />
+<img src="<a href="https://github-readme-streak-stats.herokuapp.com?user=gurugangadhar&theme=black-ice&hide_border=true&short_numbers=true&mode=weekly" "align="center" />
 </div>
 </br>
 </details>
