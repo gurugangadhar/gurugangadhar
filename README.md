@@ -45,6 +45,10 @@ return 0;
     />
   </a>
 </p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/gurugangadhar/count.svg" />
+</p>
+
 
 
 </div>
