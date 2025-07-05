@@ -65,7 +65,7 @@ return 0;
 <a href="https://twitter.com/Rabbitworl60613" target="_blank" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45">
 </a>
-<a href="https://instagram.com/gurugangadhar1516/" target="_blank" align="center">
+<a href="https://instagram.com/gurugangadhar_1516/" target="_blank" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45">
 </a> 
 </div>
