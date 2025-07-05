@@ -55,7 +55,7 @@ return 0;
 <div align="center">​​ʏᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴠɪᴀ ꜰᴏʟʟᴏᴡɪɴɢ ꜱᴏᴄɪᴀʟ ʜᴀɴᴅʟᴇꜱ ꜰᴏʀ ᴀɴʏ ɪɴQᴜɪʀɪᴇꜱ​​</div>
 <br/> 
 <div align="center">
-<a href="https://linkedin.com/in/gurugangadhar19" target="_blank" align="center" >
+<a href="https://linkedin.com/in/guru-gangadhar19" target="_blank" align="center" >
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45">
 </a>
 <a href="https://twitter.com/Rabbitworl60613" target="_blank" align="center">
