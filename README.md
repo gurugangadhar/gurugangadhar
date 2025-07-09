@@ -8,7 +8,7 @@
 
 int main() {
     const char* Name = "Guru Gangadhar Reddy";
-    int Age = 21; // Current Age.
+    int Age = 21; // Current Age
     const char* Degree = "Electronics and Communication Engineering "; // Graduated'2025
     const char* Learning[] = {"C", "C++", "SQL", "Python" "FullStack", "JavaScript"};
 
