@@ -41,14 +41,14 @@ return 0;
   <a href="https://git.io/streak-stats">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=gurugangadhar&theme=&theme=black-ice&hide_border=true&short_numbers=true&mode=weekly" 
-       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gurugangadhar&layout=compact&langs_count=8&theme=algolia"
+      
       alt="GitHub Streak" 
     />
   </a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gurugangadhar&label=Profile%20views&color=0e75b6&style=flat" />
-    
+   src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gurugangadhar&layout=compact&langs_count=8&theme=algolia" 
 </p>
 
 
