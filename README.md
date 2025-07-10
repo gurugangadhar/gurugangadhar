@@ -40,7 +40,7 @@ return 0;
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=gurugangadhar&theme=&theme=black-ice&hide_border=true&short_numbers=true&mode=weekly" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=gurugangadhar&theme=&theme=black-ice&hide_border=true&short_numbers=true&mode=weekly" 
       alt="GitHub Streak" 
     />
   </a>
