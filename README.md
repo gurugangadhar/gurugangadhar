@@ -45,9 +45,6 @@ return 0;
     />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gurugangadhar&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 
 <p align="center">
@@ -75,6 +72,10 @@ return 0;
 <a href="https://instagram.com/gurugangadhar_1516/" target="_blank" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45">
 </a> 
+
+    <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gurugangadhar&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 </div>
 
 
