@@ -73,7 +73,7 @@ return 0;
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45">
 </a> 
 
-
+<br></br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gurugangadhar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
